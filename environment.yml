@@ -1,0 +1,10 @@
+name: ConradoBitt
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy 
+  - ipython
+  - nbconvert
